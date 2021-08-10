@@ -4,7 +4,7 @@ import { NavLink as Link } from 'react-router-dom'
 import { FaPizzaSlice } from 'react-icons/fa'
 
 export const Nav = styled.nav`
-  background: red;
+  background: transparent;
   height: 80px;
   display: flex;
   justify-content: center;
@@ -16,7 +16,7 @@ export const NavLink = styled(Link)`
   font-size: 2rem;
   display: flex;
   align-items: center;
-  text-decorations: none;
+  text-decoration: none;
   cursor:  pointer;
 
   @media screen and(max-width: 400px) {
