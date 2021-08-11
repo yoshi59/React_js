@@ -1,10 +1,10 @@
 import styled from "styled-components";
-import { NavLink as Link } from 'react-router-dom'
-;
+import { NavLink as Link } from 'react-router-dom';
 import { FaPizzaSlice } from 'react-icons/fa'
 
 export const Nav = styled.nav`
-  background: transparent;
+  // background: transparent;
+  background: #000;
   height: 80px;
   display: flex;
   justify-content: center;
