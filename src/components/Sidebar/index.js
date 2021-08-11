@@ -5,7 +5,7 @@ const Sidebar = () => {
   return (
     <SidebarContainer>
       <Icon>
-        <CloseIcon/>
+        <CloseIcon />
       </Icon>
       <SidebarMenu>
         <SidebarLink to="/">Pizza</SidebarLink>
