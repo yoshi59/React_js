@@ -6,6 +6,8 @@ import Products from './components/Products';
 import {productData} from './components/Products/data';
 import Feature from './components/features';
 
+// こんにちは！こちらはATOMから編集しました。
+
 
 function App() {
   return (
